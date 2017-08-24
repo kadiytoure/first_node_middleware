@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/kadiytoure/first_node_middleware#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "http-auth": "^3.2.3"
   }
 }
