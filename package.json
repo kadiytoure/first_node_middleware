@@ -1,0 +1,26 @@
+{
+  "name": "first_node_middleware",
+  "version": "0.0.1",
+  "description": "node.js with middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadiytoure/first_node_middleware.git"
+  },
+  "keywords": [
+    "node.js",
+    "middleware"
+  ],
+  "author": "kadiy_simplon tourekadiy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kadiytoure/first_node_middleware/issues"
+  },
+  "homepage": "https://github.com/kadiytoure/first_node_middleware#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
